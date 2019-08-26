@@ -29,7 +29,7 @@ class CardCollectionViewCell: UICollectionViewCell {
         }
         else {
             
-            // Else, make the ImageViews invisible
+            // Else, make the ImageViews visible
             backImageView.alpha = 1
             frontImageView.alpha = 1
         }
